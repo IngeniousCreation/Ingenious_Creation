@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/ingenious_guru" target="blank"><img src="https://img.shields.io/twitter/follow/ingenious_guru?logo=twitter&style=for-the-badge" alt="ingenious_guru" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced JavaScript frameworks (React, Vue, Angular) Back-end technologies (Node.js, PHP, Python) CMS platforms (WordPress, Shopify, Drupal) Database management and API integrations**
+-  I’m currently learning **Advanced JavaScript frameworks (React, Vue, Angular) Back-end technologies (Node.js, PHP, Python) CMS platforms (WordPress, Shopify, Drupal) Database management and API integrations**
 
-- 👨‍💻 Custom CMS solutions, web application architecture, and best practices in development. [https://ingeniousguru.com/](https://ingeniousguru.com/)
+- Custom CMS solutions, web application architecture, and best practices in development. [https://ingeniousguru.com/](https://ingeniousguru.com/)
 
-- 📝 Ingenious Guru Blog for the latest insights on development trends and best practices. [blog](blog)
+- Ingenious Guru Blog for the latest insights on development trends and best practices. [blog](blog)
 
-- 📫 How to reach me **ingeniousguru@gmail.com**
+- How to reach me **ingeniousguru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
