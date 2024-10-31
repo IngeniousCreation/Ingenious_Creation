@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingeniouscreation&label=Profile%20views&color=0e75b6&style=flat" alt="ingeniouscreation" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingeniouscreation" alt="ingeniouscreation" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ingenious_guru" target="blank"><img src="https://img.shields.io/twitter/follow/ingenious_guru?logo=twitter&style=for-the-badge" alt="ingenious_guru" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced JavaScript frameworks (React, Vue, Angular) Back-end technologies (Node.js, PHP, Python) CMS platforms (WordPress, Shopify, Drupal) Database management and API integrations**
