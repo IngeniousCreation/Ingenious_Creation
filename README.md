@@ -1,3 +1,5 @@
+![logo]()
+
 <h3 align="center">Currently Working On: Providing top-notch development services focused on CMS custom solutions, website development, and specialized coding and development projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingeniouscreation&label=Profile%20views&color=0e75b6&style=flat" alt="ingeniouscreation" /> </p>
@@ -8,9 +10,11 @@
 
 - Custom CMS solutions, web application architecture, and best practices in development. [https://ingeniousguru.com/](https://ingeniousguru.com/)
 
-- Ingenious Guru Blog for the latest insights on development trends and best practices. [blog](blog)
+- Ingenious Guru Blog for the latest insights on development trends and best practices. [blog](https://ingeniousguru.com/blog)
 
 - How to reach me **ingeniousguru@gmail.com**
+
+<img src="https://github.com/IngeniousCreation/Ingenious_Creation/blob/main/code.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
