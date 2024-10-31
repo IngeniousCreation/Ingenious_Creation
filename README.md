@@ -1,4 +1,4 @@
-<h3 align="center">🔭 Currently Working On: Providing top-notch development services focused on CMS custom solutions, website development, and specialized coding and development projects.</h3>
+<h3 align="center">Currently Working On: Providing top-notch development services focused on CMS custom solutions, website development, and specialized coding and development projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingeniouscreation&label=Profile%20views&color=0e75b6&style=flat" alt="ingeniouscreation" /> </p>
 
